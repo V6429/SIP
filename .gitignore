@@ -23,3 +23,5 @@ thinkdsp.py
 media/*.py
 media/*.pdf
 media/*.png
+media/*.ipynb
+temp.wave
