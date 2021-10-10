@@ -17,3 +17,9 @@ ipython_config.py
 #   git rm -r .ipynb_checkpoints/
 
 # End of https://www.toptal.com/developers/gitignor
+
+__pycache__/
+thinkdsp.py
+media/*.py
+media/*.pdf
+media/*.png
